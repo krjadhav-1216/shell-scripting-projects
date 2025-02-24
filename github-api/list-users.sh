@@ -1,3 +1,4 @@
+#Author KJ
 #!/bin/bash
 
 # GitHub API URL
